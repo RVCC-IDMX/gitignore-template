@@ -130,8 +130,7 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-# Keep the dist folder for this assignment
-# dist
+dist
 
 # Gatsby files
 .cache/
